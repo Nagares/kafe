@@ -1,0 +1,12 @@
+Milk
+10
+#
+Water
+0
+#
+Sugar
+0
+#
+Cream
+20
+#
